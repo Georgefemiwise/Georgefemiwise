@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Maildrop](https://github.com/Georgefemiwise/MailDrop) and some person projects
-- 🌱 I’m currently learning Python, Django
-- 👯 I’m looking to collaborate on any python open source project and get to e collaborated with.
+- 🔭 I’m currently working on Maildrop 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 <!--
 **Georgefemiwise/Georgefemiwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
