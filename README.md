@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, my name is wise</h1>
-<h3 align="center">A passionate full stack developer from Ghana</h3>
+<h1 align="center"> Hello🙂<br>
+My name is Wise <br>
+<h3 align="center>>A passionate full stack developer from Ghana</h3>
+<h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgefemiwise&label=Profile%20views&color=0e75b6&style=flat" alt="georgefemiwise" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgefemiwise" alt="georgefemiwise" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgefemiwise&label=Profile%20views&color=0e75b6&style=flat" alt="georgefemiwise" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgefemiwise" alt="georgefemiwise" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/georgefemiwise" target="blank"><img src="https://img.shields.io/twitter/follow/georgefemiwise?logo=twitter&style=for-the-badge" alt="georgefemiwise" /></a> </p>
 
-- 🔭 I’m currently working on [maildrop](https://github.com/Georgefemiwise/MailDrop) and a personal project
-
 - 🌱 I’m currently learning **Django, python**
-
+- 🔭 I’m currently working on [maildrop](https://github.com/Georgefemiwise/MailDrop) and a personal project
 - 👯 I’m looking to collaborate on [maildrop](https://github.com/Georgefemiwise/MailDrop)
-
 - 📫 How to reach me **georgewise1010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
