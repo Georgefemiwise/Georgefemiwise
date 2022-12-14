@@ -1,6 +1,6 @@
 <h1 align="center"> Hello🙂<br>
 My name is Wise <br>
-<h3 align="center>>A passionate full stack developer from Ghana</h3>
+<h3 align="center">A passionate full stack developer from Ghana</h3>
 <h1>
 
 
