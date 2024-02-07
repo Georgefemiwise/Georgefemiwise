@@ -4,9 +4,9 @@ Greetings! 👋 I'm a dedicated developer on a mission to leverage technology fo
 Collaboration is where the magic happens! I thrive when working alongside like-minded developers who share my enthusiasm and vision for innovative solutions. Check out some of my projects below, and feel free to reach out if you're interested in collaboration or just want to chat. Let's build a brighter future together! 😊🚀
 
 
-
+<!---
 ### Currently working on 
-<!--- [Zerity](https://github.com/Georgefemiwise/Zerity)-->
+ [Zerity](https://github.com/Georgefemiwise/Zerity)
 - [maildrop](https://github.com/Georgefemiwise/MailDrop)
 
 
@@ -22,3 +22,4 @@ Collaboration is where the magic happens! I thrive when working alongside like-m
   </a>
 </p>
 
+-->
